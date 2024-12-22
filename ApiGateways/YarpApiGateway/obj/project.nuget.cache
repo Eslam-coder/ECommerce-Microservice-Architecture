@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "iUB3nKJJN0Hd42r7a7f8p5nS8aT/e1yuR+2Z/htBuA31pX446U3dkX1P1GpdCiLZDrUx5tVKHBsauw18nD3hww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\source\\repos\\eShop-microservices\\ApiGateways\\YarpApiGateway\\YarpApiGateway.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\system.io.hashing\\8.0.0\\system.io.hashing.8.0.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\yarp.reverseproxy\\2.2.0\\yarp.reverseproxy.2.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
